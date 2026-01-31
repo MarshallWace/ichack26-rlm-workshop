@@ -1,0 +1,3 @@
+[submodule "vault_competition"]
+	path = vault_competition
+	url = https://github.com/MarshallWace/ichack26-rlm-workshop-ctf
